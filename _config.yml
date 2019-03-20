@@ -43,7 +43,7 @@ kramdown:
   enable_coderay: false
   entity_output: as_char
   footnote_nr: 1
-  smart_quotes: lsquo, rsquo, ldquo, rdquo
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
   toc_levels: 1..6 
 
 #Exclude these files
